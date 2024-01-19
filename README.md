@@ -17,6 +17,8 @@ onde foi desenvolvido utilizando ReactJS e JAVA. <br>
 * JAVA
 
 ## Imagens
-### a) Tela inical
+### a)Tela inical
 ![WhatsApp Image 2023-12-13 at 16 35 56](https://github.com/juliohtm08/frontend-cardapio/assets/102925073/e4de59a8-ef59-430f-a955-033175ba1aca)
 
+### b)Tela modal
+![WhatsApp Image 2023-12-13 at 16 36 13](https://github.com/juliohtm08/frontend-cardapio/assets/102925073/ff5f4e61-a844-4011-972a-845d59fc5596)

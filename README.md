@@ -12,7 +12,6 @@ onde foi desenvolvido utilizando ReactJS e JAVA. <br>
 
 ## Tecnologias
 * ReactJS
-* TypeScript
 * HTML5
 * CSS3
 * JAVA
